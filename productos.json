@@ -1,0 +1,62 @@
+[
+    {
+      "imagen": "./img/1.png",
+      "nombre": "Remera Paw",
+      "precio": 1000,
+      "categoria": "arriba"
+    },
+    {
+        "imagen": "./img/2.png",
+        "nombre": "Remera Java",
+        "precio": 1500,
+        "categoria": "arriba"
+      },
+      {
+        "imagen": "./img/3.png",
+        "nombre": "Remera Bloss",
+        "precio": 1800,
+        "categoria": "arriba"
+      },
+      {
+        "imagen": "./img/4.png",
+        "nombre": "Remera Mona",
+        "precio": 1750,
+        "categoria": "arriba"
+      },
+      {
+        "imagen": "./img/5.png",
+        "nombre": "Remera Pepi",
+        "precio": 1550,
+        "categoria": "arriba"
+      },
+      {
+        "imagen": "./img/6.png",
+        "nombre": "Pantalón Rush",
+        "precio": 1040,
+        "categoria": "abajo"
+      },
+      {
+        "imagen": "./img/7.png",
+        "nombre": "Pantalón Mochi",
+        "precio": 2000,
+        "categoria": "abajo"
+      },
+      {
+        "imagen": "./img/8.png",
+        "nombre": "Pantalón Crash",
+        "precio": 1520,
+        "categoria": "abajo"
+      },
+      {
+        "imagen": "./img/9.png",
+        "nombre": "Pantalón Thea",
+        "precio": 2800,
+        "categoria": "abajo"
+      },
+      {
+        "imagen": "./img/10.png",
+        "nombre": "Pantalón Gliss",
+        "precio": 1520,
+        "categoria": "abajo"
+      }
+  ]
